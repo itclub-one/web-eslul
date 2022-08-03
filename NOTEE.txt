@@ -1,0 +1,12 @@
+isi web 
+1. sambutan kepsek & wakasek kesiswaan
+2. profil sekbid & eksul & sekolah
+3. dokumentasi 
+4. berita 
+5. struktur organisasi dan progja
+
+struktur design
+1. navbar & jumbotron : home 4
+2. kategori : home 1
+3. berita : home 1
+4. dokumentasi : home 2
